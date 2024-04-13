@@ -1,0 +1,2 @@
+str1 = "This is my first case. \nbut not last."
+print(str1)
